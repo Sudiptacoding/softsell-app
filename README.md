@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# SoftSell – Sell Your Unused Software Licenses
 
-## Getting Started
+## 🌟 Overview
 
-First, run the development server:
+**SoftSell** is a platform that allows users to securely resell their unused software licenses. With a clean design and easy-to-use interface, it helps users get the best price for their software licenses.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Hero Section**: An eye-catching hero section that welcomes users with a clear headline and call-to-action button.
+- **How It Works**: Detailed steps explaining the process of selling unused software licenses.
+- **Why Choose Us**: Key reasons why SoftSell is the best platform for selling software licenses.
+- **Testimonials**: User feedback section with testimonials from satisfied customers.
+- **Footer Section**: Includes important footer information such as links, copyright, and other relevant data.
+- **Responsive Design**: Fully responsive design for both mobile and desktop screens.
+- **SEO Tags**: Meta tags have been implemented for better search engine visibility.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🧠 Bonus Features Implemented
 
-To learn more about Next.js, take a look at the following resources:
+- [ ] **Dark Mode**: Users can toggle between dark and light modes.
+- [ ] **Clean Code + Folder Structure**: The code is well-structured and easy to maintain.
+- [x] **SEO + Meta Tags**: SEO optimization with proper meta tags for better ranking.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🌐 Live Link
 
-## Deploy on Vercel
+Check out the live version of the website:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+[SoftSell Live Link](https://softsell-app-topaz.vercel.app/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📂 GitHub Repo
+
+Access the GitHub repository for the project here:
+
+[GitHub Repo - SoftSell](https://github.com/Sudiptacoding/softsell-app)
+
+---
+
+## 🛠️ Installation
+
+To run the project locally:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Sudiptacoding/softsell-app.git

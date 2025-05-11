@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     siteName: "SoftSell",
     images: [
       {
-        url: "/logo11.png", // Add og-image.png in public/
+        url: "/feature.png", // Add og-image.png in public/
         width: 1200,
         height: 630,
       },
